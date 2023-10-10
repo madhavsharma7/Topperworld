@@ -228,7 +228,7 @@ header {
 .more_menu {
     position: absolute;
     height: 220px;
-    width: 200px;
+    width: 220px;
     content: "";
     background-color: transparent;
     transform: translateX(-35%);
